@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label 'win11'
+        label 'Win11'
     }
     tools {
         maven 'mvn'
